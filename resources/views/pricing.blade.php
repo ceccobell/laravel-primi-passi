@@ -31,6 +31,6 @@
             </div>
         </div>
     </nav>
-    <h1>{{ $message }}</h1>
+    <h1>{{ $pricing }}</h1>
 </body>
 </html>
